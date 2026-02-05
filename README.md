@@ -20,6 +20,5 @@ This project presents an interactive Tableau dashboard analyzing global layoffs 
 - `images/dashboard_preview.png` – Dashboard snapshot
 
 
-
 ## Author
 Shaurya Vardhan Singh
